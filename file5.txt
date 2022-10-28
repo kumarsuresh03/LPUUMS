@@ -1,0 +1,12 @@
+
+bt2 = Button(root, text="A",bg="#ABEBFF",width=10,borderwidth=4)
+bt2.place(x=50,y=200)
+
+bt3 = Button(root, text="B",bg="#ABEBFF",width=10,borderwidth=4)
+bt3.place(x=160,y=200)
+
+bt4 = Button(root, text="C",bg="#ABEBFF",width=10,borderwidth=4)
+bt4.place(x=270,y=200)
+
+bt5 = Button(root, text="D",bg="#ABEBFF",width=10,borderwidth=4)
+bt5.place(x=380,y=200)
